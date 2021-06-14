@@ -57,6 +57,7 @@ class ThemeConstants {
   static double height20 = Get.height * (20 / 896);
   static double height34 = Get.height * (34 / 896);
   static double height382 = Get.height * (382 / 896);
+  static double height199 = Get.height * (199 / 896);
 
   // widths
 
